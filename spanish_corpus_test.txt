@@ -1,0 +1,913 @@
+Vamos
+Espérate
+Detente
+Estate quieto
+Estate en silencio
+Vete a tu cuarto
+Siéntate en tu sitio
+Váyanse al monte
+No entres
+No pases
+No esperes
+No vengas aquí
+No abras la puerta
+No abras la caja
+No tires papeles en el suelo
+No tires piedras a (los tejados de) las casas
+Por favor, no estés triste
+No estés nervioso, por favor
+No tardes mucho en venir (Date prisa en venir)
+No hagas caso de lo que dice la gente (sobre ti)
+No pelees (con ellos)
+No te emborraches (No bebas aguardiente)
+No te vayas lejos
+No vengas muy tarde, (ven pronto)
+Levantémonos (Después de dormir)
+Hay que peinarse el cabello
+Vamos a levantarnos de la silla
+Vamos a sentarnos
+Estemos quietos (Permanezcamos sentados)
+No cortemos árboles
+No estemos flojos
+No fumemos en clase
+No comamos dulces
+No pintemos en las paredes
+No hablemos fuerte
+No digamos mentiras (ninguna mentira)
+Ten cuidado, estate con cuidado
+Camina con cuidado
+(No entiendo, habla despacio
+(Párate, ponte de pie
+(Parémonos, en pie
+Talón
+Pie
+Dedos del pie
+Rodilla
+Pantorrilla
+Muslo
+Espinilla
+Dedos de la mano
+Palma de la mano
+Barriga
+Vientre
+Ombligo
+Pechos, mamas
+Axilas
+Hombro
+Cintura
+Costillas
+Pecho
+Clavícula
+Garganta
+Barbilla
+Boca
+Nariz
+Oreja, oído
+Cejas
+Frente
+Pelo
+Cabeza
+Ojo
+Pie de la oreja
+Uñas
+Cadera
+Labio
+Bigote
+Barba
+Vasos, venas, arterias
+Tendón
+Talón
+Hueso
+Lengua
+Diente
+Encía
+Músculo
+Cerebro
+Pulmón
+Corazón
+Traquea
+Testículo
+Pene
+Piel
+Sangre
+Cuello
+Codo
+Brazo
+Mano
+Pierna
+Tobillo
+Espalda
+Riñones
+(Abdomen, tripas
+(Nalgas
+Gripa
+Diarrea
+Tos
+Dolor de cabeza
+Dolor de estomago
+Dolor de muelas
+(Estoy) cansado
+Hinchar, hinchado
+Disentería
+Paludismo (=calentura)
+Tosferina
+Sarampión
+(Se ha cortado y tiene) hemorragia
+Granos por todo el cuerpo
+Hueso roto
+Gusanos en el estómago
+Calentura
+Escalofrío
+Pie hinchado
+Dolor de muelas
+Dolor de oído
+Dolor de espalda
+No tiene fuerza
+Vómitos
+Sarna
+Piojos
+ayer
+antesdeayer
+el mes pasado
+llegué a Rancho
+1) - ¿Están ustedes comiendo?
+2) - No, no estamos comiendo, estamos platicando
+3) - ¿Está ella cantando?
+4) - No, está rezando
+5) - ¿Está Antonio lavando los platos?
+6) - Sí, está lavando los platos
+¿Quién es él? ¿es tu hermano?
+¿Quién es ella?
+¿Quiénes son ellos?
+No es mi hermano, sino que es mi vecino (el que está cerca de donde yo vivo):
+Sí es:
+¿Quién dices? ¿El viejito o el joven?
+Ese joven
+él es...
+Él es mi padre
+Él es mi vecino
+“mis parientes”
+7) Ella tiene un amigo
+8) Él es su amigo
+9) Ella tiene un padre
+10) Él es su padre
+11) Ella tiene una hermana
+12) Él tiene muchos primos
+13)Ellos son sus primos
+14) Él tiene un perro
+15) Ese (animal) es suyo (de su propiedad)
+16) Él tiene un carro
+17) Este es su carro
+18) Él tiene tres sobrinas
+19) Ellas son sus sobrinas
+20) Él tiene un hermano
+21) Él es su hermano
+hijo/a:
+(mi) hija:
+(mi) madre:
+(mi) padre:
+(mis padres):
+(Padre Nuestro):
+tía:
+tío:
+esposa:
+esposo:
+hermana,hermano
+su hermana:
+mi hermano):
+(su hermano – de ella):
+(mi) prima, mi primo):
+(su prima – de ella):
+(mi) primo (ego: masc.):
+(su primo – de ella)
+(mi) nieta:
+(mi) nieto:
+(mi) abuela:
+(nana xiì)
+tata tyée yúù
+(mi) sobrina:
+(mi) sobrino:
+(mi) suegra:
+(mi) suegro:
+nuera:
+yerno:
+¿De quién es ese chivo?
+De Petra, es
+1) ¿Dónde está el pan?
+16) Está en la pared
+2) Está dentro de la caja:
+17) ¿Dónde está el agua?
+3) ¿Dónde está el reloj?
+18) Está en el vaso
+4) Está encima de la mesa:
+19) ¿Dónde está la carta?
+5) ¿Dónde están los vestidos?
+20) Está en el sobre
+6) Están en (sobre) la cama:
+21) ¿Dónde está el carro?
+7) ¿Dónde están las frutas?
+22) Está enfrente de la casa
+8) Están encima de la mesa:
+23) ¿Dónde está la silla?
+9) ¿Dónde está el muchacho?
+24) Está detrás de la mesa:
+10) Está en la puerta:
+25) ¿Dónde están las botellas?
+11) ¿Dónde están las flores?
+26) Están detrás de los botes
+12) Están en el vaso
+27) ¿Dónde está el banco (de madera)?
+13) ¿Dónde está el maestro?
+28) Está a un lado de la mesa
+14) Está en la calle:
+29) Pon las piedras en medio de la calle
+15) ¿Dónde está el pizarrón?
+1) ¿Quiénes mandan en el pueblo?:
+2) Manda el comisario y los principales:
+3) ¿Quiénes son principales?
+4) Los principales son los que ya han sido comisarios:
+5) ¿Quiénes nombran a los principales?
+6) Mero los principales de este pueblo:
+7) Los que fueron comisarios ya son principales:
+8) ¿Cuántos principales hay en este pueblo?:
+9) Hay diez principales en este pueblo:
+10) ¿Qué trabajo hacen mientras están en la comisaría?:
+11) Puro son los que platican en la comisaría (siempre están hablando en la comisaría):
+12) ¿Quiénes sacan al comisario?
+13) Todo el pueblo con los principales:
+14) ¿Quién es el comandante?: 
+¿Quién es el juez?: 
+¿Quién es el mayor?: 
+¿Quién es el cabo o topil?: 
+¿Quiénes son la comisión, los policías?:
+15) Los que son comisario, suplentes, juez, comandante, comisión, cabos, ocupan la comisaría:
+16) ¿Qué trabajo hace el suplente?:
+17) El suplente se sienta con el comisario:
+18) El mayor llama a la gente para que vaya a la comisaría:
+19) El juez va donde hay problemas para comprobar:
+20) El comandante va detrás del animal que se perdió o que robaron:
+21) El fiscal, el sábado por la tarde va, barre el templo, enciende la lumbre (prende las velas) y toca las campanas...
+22) ...los domingos, se levanta, va, enciende la lumbre y toca otra vez las campanas:
+1) Ellos van al parque:
+2) Elena va al banco:
+3) Estamos yendo al comedor (un comedor comunitario):
+(Estamos yendo a comer [comedor comunitario]
+(Vamos a comer: 
+4) Pedro va camino de Xicayán:
+5) Yo voy a la iglesia:
+6) Irene viene a la casa:
+7) Pedro viene aquí:
+8) Ellos van volando a México:
+9) Voy/estoy yendo a Rancho:
+10) Nosotros vamos bajando a donde hay una casa:
+11) Ella va conduciendo un coche a donde está la escuela:
+12) Los niños están corriendo hacia donde está la tienda:
+13) La gente está/va volando a (donde) la luna:
+14) Ellos están/se encuentran nadando en el río:
+15) Mi amigo está subiendo el cerro:
+16) La señora va corriendo al río:
+17) Pedro está/va caminando a su casa:
+18) Yo estudio mixteco
+19) Yo hablo despacio
+20) Yo vengo a Rancho Viejo:
+21) Yo estoy subiendo a un árbol:
+22) Yo estoy/voy caminando a la escuela:
+23) Yo voy gateando a la puerta:
+24) Yo voy corriendo al río:
+25) Yo estoy volando, voy a Rancho Viejo:
+26) Los niños están/se encuentran corriendo, van a la iglesia:
+Tlacoachis(tlahuaca): 
+Minas: 
+Tierra Blanca: 
+San Martín: 
+San Isidro: 
+San Pedro: 
+Yolosochitl: 
+Rancho Viejo: 
+Coyul: 
+Arroyo Prieto: 
+Río Encajonado: 
+Xicayán: 
+La Trinidad: 
+Santa Cruz de Yucucani: 
+El Carmen: 
+México: 
+Terrero Venado: 
+(Zihuatanejo: 
+ESTÁ YENDO, VA
+¿Dóndè?”
+1) Los candados (=llave) son para cerrar las puertas:
+2) El cerebro es para pensar:
+3) Yo estoy aquí para ayudarte (=solidarizarme contigo):
+4) Las grabadoras son para grabar:
+1) ¿Qué le has dado a tu hermano?
+(- Una grabadora le he dado
+2) ¿Qué me vas a pedir ahora (=qué vienes buscando de mí ahora)?
+(- Un cuaderno busco para escribir en la escuela
+3) ¿Qué tengo que venderte?
+(- ¿Hay jabón (que) me vendas
+4) ¿A quién le vas a dar ese balón?
+(- A Pedro se la voy a dar
+5) ¿A quién le voy a pedir (=con quién voy a hablar, que me lo deje)?
+(- Con Juan, habla, para que te lo de:
+6) ¿Para qué estás cavando ese agujero?
+(- Sirve para meter la basura y hacer abono / hasta que, para que se convierta en abono
+7) ¿Para quién quieres esas piedras (quién necesita esas piedras, quién quiere eso)?
+(- Alberto (es quien) quiere esas piedras
+8) ¿Para quién va a ser el primer pescado que pesquemos (quién recibirá el pescado que saquemos primero)?
+(- María lo recibirá
+1. Mi casa se parece (tiene el aspecto, causa la misma impresión) a tu casa
+2. Tengo un hermano que se parece / tiene el mismo aspecto que tú
+3. La gente dice (así) que yo me parezco (soy de la misma apariencia) a mi papá
+4. Mi casa es blanca como tu casa
+5. Alberto es alto como su papá
+6. Ana es inteligente como su mamá
+7. Mi perro es flaco como yo
+8. Aquel hombre (caminante) camina como mi hermano
+9. Mario es igual que su padre
+10. Este carro es igual que mi carro
+11. Ustedes nadan como los peces; nadan igual que los peces
+12. Mi casa es como tu casa
+1) Yo vivo en Xicayán
+2) Hay venados en el monte
+3) Van a poner (elevar, poner en pie) una torre en aquel cerro:
+4) Vivo en la calle Vicente Guerrero, allá resido
+5) Mi nieto vive donde hay un río
+¿En qué momento es que chaponan?(En abril)
+2. Una vez se hubo chaponado, entonces hubo (“estuvo habiendo”) la fiesta
+3. ¿Por qué queman ellos el monte?:
+4. Se calienta la tierra y por eso puede hacerse la milpa:
+5. ¿En qué momento se siembra?
+6. En diciembre durante la época seca y en junio (o mayo) durante las “aguas”
+7. En diciembre siembran, siembran también en mayo
+8. ¿Cómo hacen los que siembran en junio?
+9. En junio la gente siembra de temporal (cuando llueve)
+10. Pláticame más sobre ello, la siembra
+11. En el mes de junio, la gente siembra en el monte, porque llueve, y no “quiere riego” (no hace falta regar)
+¿Cuándo es que empiezan a limpiar?
+Cuando ha pasado un mes y medio desde que sembraron, entonces empiezan a limpiarla
+¿Cuándo está en sazón (cumple) la milpa y se cosecha?
+Una vez la cosechan en abril, otra la cosechan en octubre
+12. ¿Cómo hacen los que siembran en diciembre?
+13. Aran la tierra y riegan, no siembran (más, ya) en el monte
+14. ¿Toda la gente siembra en diciembre?
+15. (En el caso de que, solo) los que tienen tierras, ellos quieren sembrar
+16. ¿Cuántos litros siembra (un hombre)?
+17. Uno(s) siembra(n) tres litros, otro(s) dos
+18. ¿Alcanza, es suficiente hasta la siguiente cosecha (de elotes)?
+19. No es suficiente, faltan dos meses para que haya elotes
+20. Dime cuántos meses más requiere
+21. En agosto hace falta mucho maíz porque falta que se coseche el elote:
+Algunos van a jornal, trabajan a jornal con otros buenos “parientes nuestros”. 
+Así los que tienen maíz, les dan maíz; algunos les dan el resto en dinero.
+Algunos también emigran a Lázaro.
+Una vez la cosechan en abril, otra la cosechan en octubre
+Uno(s) siembra(n) tres litros, otro(s) dos
+(En el caso de) los que van a Lázaro, allá ganan los pobres dinero. 
+Entonces vienen otra vez, aquí, compran maíz.
+Algunos otros de los pobres parientes nuestros, los que tienen chivos...
+Desde Rancho a Xatuta hay (se caminan) cinco kilómetros
+Cuantos son pobres, esperan hasta que llegan las lluvias otra vez, desde / durante las secas.
+Cuando ha pasado un mes y medio desde que sembraron...
+Dime cuántos meses más requiere/hace falta
+En agosto hace falta mucho maíz porque falta que se coseche el elote:
+En el mes de junio, la gente siembra en el monte, porque llueve, y no requiere que rieguen
+No hay suficiente, faltarían dos meses para que hubiera elotes
+1) Tengo frío
+2) No tengo frío
+3) Tengo calor
+4) No tenemos calor, pero sí tenemos frío
+5) Tienes fiebre, tal vez sea conveniente que descanses
+6) No tienes fiebre, solo tienes un poco inflamada la herida, pero se pasará pronto
+1. ¿Dónde estuviste anoche? 
+2. Anoche estuve en mi casa:  
+3. ¿Dónde estuvo Juan ayer?  
+4. Él estuvo en la casa de Pedro:  
+5. ¿Qué fuiste tú?  
+6. Tú fuiste maestro:  
+7. ¿Quién fue el más alto (de ellos)? 
+8. Pedro fue el más alto 
+9. ¿Quién estuvo escuchando? 
+10. Los niños estuvieron escuchando 
+11. ¿Quién estuvo riendo?
+12. Estuvieron riendo los muchachos
+13. ¿Quiénes estuvieron estudiando?
+14. Nosotros (somos los que) estuvimos estudiando:
+15. ¿Qué animal estuvo haciendo ruido anoche?
+16. (Es) un burro 
+17. ¿Qué animal estuvo ladrando? 
+18. Un perro es el que estuvo ladrando: 
+19. Mi mamá se casó con mi papá hace veinte años 
+20. Él durmió hasta muy tarde esta mañana
+21. Nosotros nadamos en el río esta mañana
+22. Él preparó la comida esta mañana
+23. Ella contó la verdad, a las doce 
+24. Ellos oyeron a los pájaros en la tarde 
+25. Caminé por la orilla del río toda la tarde 
+26. Un avión pasó por el cielo
+27. La carretera pasa (tiempo presente)
+28. La carretera pasa por Tlapa (tiempo presente)
+29. No pasó nadie por aquí
+30. Ayer llegamos a México a las nueve de la mañana
+1) Tengo sueño
+2) Ahora no tengo sueño, pero anoche, a esta misma hora, sí tuve, y mucho
+3) Tengo frío
+4) Tuve mucho frío ayer por la mañana, porque dormí afuera y sin cobija
+5) No tuve frío ayer
+6) Tengo hambre
+7) Juan también tiene hambre
+8) Mi compadre ya tenía hambre, cuando mi comadre vino a dejarle la comida
+9) Tuvimos hambre ayer, porque no llegamos a tiempo para la comida
+10) No tengo hambre
+11) Todavía no tenía mucha hambre, cuando me llamaste para comer
+12) Tengo calor
+13) Me fui a bañar porque tenía calor
+14) Con esa camisa negra y gruesa, tendrás calor
+15) Tenemos (mucha) sed. Apúrate con el agua
+16) Tenía sed
+17) No tenemos sed, porque tomamos agua hace un momento
+18) Tienes fiebre. Tal vez sea conveniente que descanses y mañana vayas al médico
+19) El paciente que está en la última cama tenía fiebre cuando lo trajeron. Ahora, parece que ya le está bajando un poco
+1. ¿Tienes diarrea?
+2. ¿Toses? ¿Tienes tos?
+3. ¿Te duele la cabeza?
+4. ¿Qué es lo que más le molesta ahorita?
+5. ¿Qué es lo que sintió primero, qué le hizo sentir primero?
+6. ¿Dónde le duele?
+7. ¿Cuándo tiene dolor?
+8. ¿Puede dormir con el dolor (con la enfermedad que padece)?
+9. ¿Cuánto tiempo (días) lleva con diarrea?
+10. ¿Cómo es la diarrea (las heces)? ¿Es agua, es espesa, hay sangre?
+11. Respire hondo (Vaya poco a poco tomando aire)
+12. Suelte el aire poco a poco
+13. Mi niño hace tres días que tiene diarrea
+14. Mi niño hace tres días que no defeca
+15. Primero le da fiebre y luego escalofríos
+16. Me duele cuando camino
+17. Me corté (el pie) con el machete:
+18. No tengo fuerzas para trabajar
+19. Tome esta medicina todos los días:
+20. Una (de las pastillas) la toma por la mañana, otra por la tarde y otra por la noche
+21. Prepare agua hervida, (ahí) eche la medicina y (entonces) tómesela:
+22. Primero tome la medicina, y después
+1. Ya me he puesto los dientes que faltaban
+2. Hace mucho tiempo, la gente vivía sin pelearse
+3. Cuando fui a visitar a María, todas las veces vomitaba sangre
+4. Cuando terminé de cantar, la gente me dio dinero
+5. Cuando acabó de temblar (cuando pasó el temblor), la gente se reunió en medio del pueblo:
+6. En marzo y en abril hace mucho viento
+7. Mientras he estado en el pueblo, no ha pasado nada, no ha hecho nada el viento
+8. Cuando vayas a Ometepec, me avisas
+9. Cuando venga el padre, habla con él
+10. Cuando te hayas casado no tomes cerveza
+11. Mi gallina puso ocho huevos
+12. Mi gallina pone un huevo cada dos días
+13. Mañana pondrá otro
+14. No hay maíz para hacer nixtamal
+15. No pongas nixtamal
+16. Entonces lo pondré mañana
+17. Ya pusiste ayer
+18. Iré a Ometepec la próxima semana para que me pongan los dientes, por lo siguiente:cuando caí en unas piedras, entonces fue que se me rompieron.Así que la semana próxima iré con ellos para que estén (en su sitio)
+19. Me hace el favor de hablarle a sus hijos para que vayan a cambiar a casa de Florentino?
+1. Tenemos que ir a Ometepec
+2. Tienes que moler maíz
+3. Tienes que estudiar
+4. María no está obligada a pagar, no tiene que pagar, no debería pagar
+5. Debemos cuidar los árboles, los ríos, el aire y toda la naturaleza (la Creación)
+6. Hay que enseñar a los niños a bañarse: bañarse uno mismo y de ese modo también se bañarán sus hijos; lavarse la ropa, y de ese modo también la lavarán sus hijos.
+7. Nosotros mismos (en forma inclusiva), tenemos que resolver nuestros problemas por( en colaboración con) nosotros mismos.
+8. ¿Puedes sacar dientes?
+9. Aquí podemos sacar dientes, pero nos es imposible, no sabemos ponerlos otra vez
+10. En aquella chica, tú puedes confiar, puedes crees sus palabras, porque es una mujer recta:
+11. No podrás, no conseguirás correr mucho si tienes lleno el estómago:
+12. Podré resolver problemas más difíciles, problemas más duros, que estos, si tú me ayudas:
+13. ¿Puedes cantar como los pájaros?
+14. ¿Puedo comerme una ciruela de las que hay en la mesa?
+15. ¿Puedo jugar un rato con tu perro?
+16. Puedes ir a la fiesta pero ven temprano, porque si no estás otra vez, nunca más te dejaré ir, ni una vez más te dejaré ir a la fiesta:
+17. El maestro prohibe a los niños hablar mientras estudian, porque a otros les molesta
+18. No puedes tomar tantas medicinas de golpe, en una toma, porque puede hacerte daño
+19. No pude salir a hablar contigo, porque mi papá no me dejó
+20. Manuel quería comprar una vaca a Pedro, pero Pedro no aceptó venderla porque él quiso pagar (un precio) tan bajo:
+21. Quise hacer un buen trabajo en el techo de tu casa, pero llovió y no pude:
+22. Quiero que le digas a tu papá que venga a mi casa, para hablar acerca de qué trabajo haremos mañana:
+23. ¿Vas a querer que corte también el árbol alto?
+24. Es necesario ganar dinero para comprar todo lo que necesites
+25. No es necesario que te ponga un suero
+26. Deja de comer tanto atole de maíz, porque, tomando más así, engordarás mucho:
+27. Si no llueve iremos a Ometepec
+28. Si llueve mucho crece el río (sube el agua)
+29. Si lo dejas (guardado) más tiempo, se va a pudrir
+30. ¿Por qué hay pobres en el mundo, si hay riquezas?
+31. Si no peleara la gente, no habría presos en la comisaría (la celda)
+32. Si finalmente, en absoluto hubiera árboles no habría aire que respirar ni llovería
+33. Si hubieras ido por el camino que te dije no te habrías perdido
+34. Como llovíó, y llovió fuerte, la semana pasada, entonces sembramos:
+35. Si hubieras podido quedarte nos habrías ayudado, porque hubo momentos en que necesitamos (queríamos) tu ayuda, pero te habías ido:
+ACEPTAR, CONSENTIR
+QUERER
+1. Habrá lluvias abundantes el año que viene
+2. Si se ponen en orden los libros en la biblioteca, los niños podrán leerlos
+3. Si nos levantamos y trabajamos, habrá agua, habrá agua en nuestro pueblo, la habrá en la puerta de casa
+4. Pronto (dentro de poco) habrá sombra en este lado de la casa
+5. ¿Cuándo habrá luz eléctrica en tu pueblo?
+6. Aquí no habrá pronto (antes) luz eléctrica, si la gente no se reúne para decidirlo (y haya palabras, en asamblea)
+7. ¿Cuándo habrá casamientos por amor entre los jóvenes (al querer ellos, al decirlo ellos)?
+8. ¿Dónde habrá maiz para que podamos comprar cuando vengan las próximas lluvias?
+9. Si dices la verdad, si eres sincero, siempre (por fuerza) habrá alguien que te ayude, te apoyarán
+10. Si no consolidamos el camino, lo reforzamos bien, colocamos bien piedras, entonces, después de (cuando hayan acabado) las lluvias, estará peor el camino, para entonces (estará) quebrado completamente
+11. No habrá cólera en el pueblo si ustedes cumplen las normas de higiene (hacen caso a lo que dicen los médicos, qué no sean sucios):
+12. ¿Desde cuándo habrá (cuándo empieza el) trabajo en la corta de mango en Rancho Alegre?
+13. ¿Cuándo dejará de haber (será imposible que siga habiendo) venados en el monte, si ahora los seguimos matando?
+14. ¿Qué cura habrá, qué cura celebrará la boda?
+15. ¿Cómo hará la gente para tener tierra, para que puedan sobrevivir todos los hijitos trabajando la tierra?
+16. Me alegraré mucho si algún día te vuelvo a ver
+17. Mi hijo se hizo grande sin que me diera cuenta
+18. Tu hijo estará sano solo si come bien
+19. Te debilitarás mucho si no duermes muchas noches
+20. El que está enfermo, ahora, se encuentra muy débil, no obstante, pronto se recuperará (se irá poniendo fuerte)
+21. Si hubieras accedido a venir, habrías dormido en mi casa...
+22. Aunque haya muchas tortillas, no hay con qué comerlas
+23. Aunque Hilario es más grande que yo, no le tuve miedo
+24. Pudimos cruzar el río, aunque estaba muy hondo, pero pasamos, porque podemos ir nadando, sabemos nadar
+25. No les puse (el líquido, el suero), porque no era necesario
+26. Dile a los niños que no lloren
+27. Dile a la niña que ría con más fuerza
+porque, aunque hubo muchas personas (que) sí durmieron en mi casa, había mucho espacio libre: había sitio donde quedarse
+También yo estoy bien
+¿Dónde vas también tú?
+No hay tierra muy buena, pues, pero tampoco hay de la mala
+tierra buena
+es tierra mejor)
+tierra mala
+tierra de la buena, la tierra buena
+Se hace bien / puede hacerse la milpa en ella
+Pedro prepara la milpa
+Esa tierra es muy mala
+Esa tierra es un poco mejor
+Esa tierra es muy buena
+Mi caballo...
+Es un buen animal
+Es grande
+Mi caballo...
+Es buenísimo/óptimo
+Es muy grande/grandísimo
+Es el más grande de/entre todos
+¿Hay muchos, hay pocos?
+¿Cuántos son tus chivos?
+Creo que has plantado mangos, ¿cuántos son?
+¿Cuántos “maduros” (ancianos del consejo) hay en este pueblo?
+¿Dónde vives?
+¿Dónde está él (ahora)?
+¿Dónde está/vive él?
+ ¿Dónde viven?
+¿Viven contigo?
+Vivo en el pueblo
+Vivo cerca
+Conmigo vive mi hijo
+Vive aparte, en otra parte (literalmente: tiene mujer)
+Mi papá, en el monte está
+Vive caminando a un paso de aquí
+ Vive cerca de dónde hay un río
+ donde se ve la puerta de la comisaría, por ahí (enfrente de la comisaría)
+Mi casa está detrás (a espaldas) del templo; por detrás del templo
+¿Dónde está la escuela? ¿Dónde hay una escuela?
+A la derecha, por aquí está
+¿Hay cancha donde jugar a la pelota?
+No hay
+Sí hay
+A la izquierda... allí, hay una cancha muy buena
+(mi, nuestra) “derecha”, la dirección por la que voy / vamos
+(mi, nuestra) “izquierda”, la dirección del camino
+por ahí
+ahí
+por allá 
+allí
+por aquí
+aquí
+¿Qué aspecto tiene? ¿Es alto, es chaparro?
+Es más bien alto
+Es alto
+Es muy alto
+Es chaparro
+Es delgado, ligero; grueso
+Tiene bigote
+¿Quién es él? ¿Es tu hermano?
+¿Quién es (el que es) tu hermano?¿Cuál (de ellos) es tu hermano?
+¿Quién es (el que es) comisario?
+Roberto es comisario
+¿Quiénes son maestros en este pueblo?
+¿Quiénes son encargados en este momento?
+Él, en el caso de que haya algún asunto, él va a todos los pueblos y habla con ellos
+Algunas veces cuando yo no estoy, por algún trabajo que he ido a hacer, ella mera parte la leña
+yo voy a trabajar (a vuestro pueblo) en la escuela
+El comandante va detrás de los animales que se perdieron, o que robaron
+“No es mi hermano, es mi vecino”
+“Dice (él) que vengas”
+“¿Sabéis dónde está la escuela?”
+Tiene (ella) tantos años como yo
+“Ya que tú regresas a tu pueblo, también yo regreso al mío”
+Porque tomas mucho, por eso enfermarás
+“Ese muchacho parece débil, pero no es verdad, es fuerte”
+“Voy a vuestro pueblo a trabajar”
+“Qué bueno ahora, porque ya hay maestro”
+“Cuando viniste estaba durmiendo”
+“Cuando llueva, brotará la milpa”
+“Cuando ha pasado un mes desde que sembraron, entonces empiezan a limpiar la milpa”
+“Se llama como yo”
+“Como haces tú, que siempre estás en casa, así hace ella”
+Pedro sabe tanto como yo sé
+“Si llueve tanto como la semana pasada, (entonces) tendremos que sembrar muy deprisa”
+“Si comemos, creceremos”
+“Aunque vayas muy rápido, (te digo), cuando hayas llegado allí, el médico ya se habrá ido”
+Él, ¿a dónde va / está yendo?
+¿Dónde vas / A dónde ibas?
+A vuestro pueblo voy / estoy yendo
+¿A dónde has ido, dónde fuiste?
+A mi milpa he ido
+Ahora me voy, (pronto) nos iremos familiarizando
+Nos vamos
+Vámonos
+Ve
+Ven, venid
+Ven, llégate
+Ándale, hasta pronto
+Los miércoles y los jueves voy con (llevo a) los chivos al monte
+¿Cuándo viniste/llegaste?
+Ayer llegué, he llegado
+Ayer regresé, había ido a Tlacoachis (Ayer vine de Tlacoachis)
+Acabo de llegar
+Vino Pedro ayer
+Se puso en camino
+¿Dónde has ido (de dónde vienes)?
+¿Cuando te irás?
+Mañana voy a Tlacoachis
+¿Cuándo vendrás (terminarás de ir y venir)?
+¿Cuándo vendrás?
+¿Cuándo vuelves?
+la semana que viene
+vuelvo
+vengo
+regreso
+“Me eres muy familiar” 
+¿Estás en casa?
+Sí estoy
+¿Están ustedes?
+Sí estamos
+¿Está el que cura?
+Sí está / No está, no hay
+No está, fue a Tlacoachis
+¿Está usted bien?
+¿Cómo estás?
+ Estoy bien, ¿y tú?
+Yo también (estoy) bien
+Ahora, me voy y ya nos reuniremos
+Está bien, ándale y vendrás otra vez (en otra ocasión)
+ Me voy, pero pronto estaré de vuelta.
+Ve, pero vuelve
+Está bien, ándale (“ve y ven”).
+¿Qué hombre es? ¿Qué mujer es?
+¿Es bravo o no? ¿Es buena gente?
+Creo que...
+Es buen hombre,
+ Es buena mujer
+ Es un hombre recto, sincero
+ Es una mujer recta, sincera
+ Es bravo, no es bravo
+ Es mezquino, no es mezquino
+ Es quejica, antipático; no es...
+ Es fanfarrón; no es...
+Es obediente, fiel; no hace caso
+Es respetuoso, agradable; es impertinente
+Es guasón, inquieto; no ofende
+Es mentiroso, chismoso
+Es amable, servicial
+Es generosa, no es rencorosa
+Es vergonzoso, es tímido
+¿Quién es...? 
+¿Qué es...?
+¿Qué aspecto tiene?
+¿Dónde vas? 
+¿De qué lugar eres? 
+ ¿Qué mujer es ella, qué carácter tiene?
+ ¿En qué te ocupas, en qué trabajas?
+¿En qué estáis atareados?
+Estoy leyendo
+ Estoy trabajando en la milpa
+Estamos barriendo
+¿Hay, tienes?
+- ¿Hay cancha en tu pueblo?
+Sí hay
+No hay
+Falta, todavía no hay
+- ¿Tienes chivos?
+Sí tengo
+No hay, no tengo chivos
+ Falta, todavía no hay
+- ¿Hay médico?
+ Sí está
+ No está, se fue a Acapulco
+ Falta, todavía no vino
+- ¿Hay arroz?
+- ¿Queda más, todavía hay arroz?
+ No hay, se acabó
+ Falta, todavía no hemos traído
+ Todavía hay arroz en la olla
+- ¿No estás casado, no tienes mujer?
+¿Está a punto de terminar, queda mucho?
+Falta, acabo de empezar
+ Falta poco, ya pronto acabo
+- ¿Cómo se dice?
+- ¿De qué trata el libro que estás leyendo?
+- ¿Qué quiere decir eso?
+- ¿Qué significa esa palabra?
+¿Qué hace/está haciendo ella?
+¿Qué tarea hace/está haciendo ella?
+¿Qué es lo que está haciendo Antonio?
+Está cerrando la ventana
+¿Qué hace/está haciendo Elena?
+Está haciendo de comer
+¿Qué hace/está haciendo el perro?
+Está saltando al agua:
+¿Qué haces?
+Como
+Yo estoy comiendo
+Estudio
+Estoy estudiando
+¿Qué hace Juan?
+Duerme, está durmiendo
+Juan está durmiendo
+¿Qué hace María?
+Está tejiendo un vestido.
+María está tejiendo
+¿Qué hace Carmen?
+Calienta el nixtamal
+Carmen, nixtamal es lo que calienta
+¿Qué hacen Miguel y Nayo?
+A los enfermos están curando
+Nayo y Miguel, a los enfermos es que están curando
+¿Qué hacen Hilario y/con María?
+ ¿Qué hacen ellos/as?
+ Ayudan a su madre barriendo
+¿Qué hacéis vosotros/as?
+Estamos rezando
+Nosotros/as estamos rezando
+¿Qué hacéis vosotros/as?
+ Estamos contando
+Nosotros/as estamos contando (haciendo cuentas)
+¿Qué hacen todas esas mujeres? ¿Qué trabajo es el que hacen?
+por qué, para qué)
+Café es lo que están moliendo
+Esas mujeres muelen café seco
+Es un vestido lo que lavan
+Esas mujeres lavan ropa sucia
+¿Qué hace ella, esa mujer?
+Está estudiando (ella)
+Esa mujer está estudiando, un libro grande, muy grueso, eso (entero) estudia.
+“Quédate tranquilo”
+“No te preocupes”
+Deja estar a tu boca, “cállate”
+Sé grande dentro de ti, “perdona”
+¿Cómo estás, cómo te encuentras (de ánimo)?
+¿Cómo estás? ¿Estás triste, estás alegre?
+Me alegro porque Petra ya se puso bien
+Estoy triste porque están haciendo sufrir más a los humildes
+No estoy triste, estoy harto de no poder andar
+¿Cómo te va, cómo lo haces?
+Me va, voy haciendo
+¿Cómo va eso? (por algún problema que tenga)
+¿Cómo va tu pie?
+Todavía está hinchado
+Ya se curó
+¿Qué te pasa?
+Estoy enfermo
+ Estoy agotado, cansado
+ Me duele la cabeza
+Tengo hambre
+Te veo un poco triste ¿Qué te pasa?
+Me parece que estoy bien, creo, pero...
+no lo entiendo, qué me pasa,porque a veces estoy muy triste, me entristezco.
+Me parece que no quiero mantenerme vivo
+Tienes que alegrarte, no sufras, sánate por dentro; cuando te ha ocurrido eso, reacciona enseguida
+Que me haga fuerte por dentro, pues. Gracias por darme fuerzas
+¿Qué es? ¿Qué (cosa)…?
+¿Quién es ella, qué carácter tiene?
+Una tabla donde colocar cositas
+¿Qué es lo que estás leyendo?
+Un libro estoy leyendo
+¿Qué pasa?
+¿Qué (cosa es)?
+¿Quién (es)?
+“¿Quiénes están/viven en tu casa?”
+“¿De quién hablas?”
+“¿A quién le has dado la pelota?”
+¿Con quién […]?
+“¿Con quién hablas?”
+¿Con qué [...]?
+“¿Con qué cavarás?”
+¿Para qué sirve?
+¿Qué vas a/puedes hacer con eso?
+Cuándo
+¿En qué momento?
+De quién es el animal
+¿Cómo, cuántos/as?
+“¿Cuánta gente…?”
+“¿Cuántos animales…”
+“¿Cuántos años tienes?”
+(Eso) es para que estén los libros
+(Eso) es para labrar la madera, hacer agujeros en la madera
+¿Dónde está (colocado  una cosa)?
+dentro de la casa
+está
+sobre la mesa
+¿Dónde está (sentado una persona)?
+Junto al comisario (está sentado)
+En la casa está acostado, en una cama pequeña
+¿Cuál mesa...?
+¿La grande o la pequeña?
+ Sobre la mesa grande...
+¿Cómo es? ¿Qué aspecto tiene?
+Como una varita parece, plana y fina es
+¿Es esto?
+ Sí es
+No es (esa)
+Parece como una tabla, pero es otra cosa
+¿Dónde está?
+Mi milpa está...
+al lado de la orilla del camino
+donde hay un árbol grande
+ ahí está
+¿Está...? ¿Hay...?
+Te pasa como a las vacas (que les gusta lo verde)
+Me gusta el trabajo que hago
+Las flores son todas bonitas
+Está feo, parece feo
+Está muy gustoso, está muy sabroso
+Huele bien
+Huele mal
+Todas las flores son bonitas, pero yo prefiero las verdes
+A Pedro le gustán más las flores violetas...
+entre todas
+que las amarillas
+Ese monte es más alto que aquel
+Antonio corre más que Pedro
+Trabaja con más intensidad Pedro que Tiburcio
+Come menos Roberto que Juan.
+Antonio corre mejor que Pedro
+Manuel atesora muchas más (cosas) que Antonio
+Juan es más inteligente que su padre
+María cose más deprisa que su madre
+María cose más despacio que su madre (=María cose menos rápido que su madre)
+Menos sabe Antonio que Pedro
+Es menos lo que atesora Manuel que Antonio
+Menos inteligente es Juan que su hijo
+¿De qué color es (esa cosa)?
+Es rojo
+Es amarillo
+La flor verde, una flor verde
+Violeta, azul
+Blanco
+Negro
+Rosa, colorado
+color café
+Es áspero
+Es suave, cómodo
+Está dulce
+Está salado, amargo
+Está agrio
+¿Cuánto maíz hay?
+¿Cuánto maíz siembras?
+Calculo que tengo diez animales
+Calculo que tiene ochenta años
+Hay exactamente tres kilos de maíz
+Es suficiente, alcanza
+No es bastante, (hace) falta
+Es suficiente, alcanza
+No es bastante, (hace) falta
+Son pocos
+Pocos chivos
+Chivo pequeño, cabrita
+Recogeré mucho maíz
+Mucho maíz
+Muchísimo maíz
+Poco maíz
+¿Cuántos años tienes?
+(Tengo) cincuenta años
+¿Cuántos años tiene él?
+Tiene treinta y tres años
+Tiene (tantos) años como yo
+Estamos parejos
+Tenemos los mismos años
+Tienes tanto maíz como yo
+¿Cuántos años más tiene ella?
+Mi hija tiene diez años más que el pequeño
+el/la pequeño/a
+el/la penúltimo/a
+ el/la antepenúltimo/a
+el/la un poco mayor
+ el/la mayor
+ el/la primera
+Arar
+Regar
+Cosechar los elotes (maíz tierno)
+“Piscar”, recolectar las mazorcas
